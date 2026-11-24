@@ -1,10 +1,12 @@
 """Write the 23 November 2026 world-news image to /output/entry.png
 for make.fun's 'news-image-20261123' bounty.
 
-Version 3: the poster was redrawn by draw_poster_v3.py in this
-repository — a front page's hierarchy: COP31 as a full-width lead
-banner, four more stories as pictogram cards, and the remaining
-stories as footer briefs. Same stories as v1:
+Version 4: the poster was redrawn by draw_poster_v4.py in this
+repository — the v3 front page with its craft faults fixed: the
+COP31 lead banner is taller with a 46px one-line headline, the
+story cards are tighter with darker decks, and the six footer
+briefs run in a 2x3 grid that keeps a real bottom margin. Same
+stories as v1:
 COP31, the Strait of Hormuz, the Banten factory fire, the Peru
 quake, Seoul's AI-cheating resignation, the 'El Chapo Isidro'
 arrest, BepiColombo at Mercury, and the Nigeria boat accident.
